@@ -63,4 +63,4 @@ Please check `missing_labels.txt`
 
 - [JSSS Corpus](https://sites.google.com/site/shinnosuketakamichi/research-topics/jsss_corpus)
 - [Julius segmentation kit](https://github.com/julius-speech/segmentation-kit)
-- [PyOpenJtalk](https://github.com/r9y9/pyopenjtalk).
+- [PyOpenJtalk](https://github.com/r9y9/pyopenjtalk)
