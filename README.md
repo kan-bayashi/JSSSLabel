@@ -1,4 +1,4 @@
-# Word / phone alignment label for LibriTTS Corpus
+# Phoneme alignment label for JSSS Corpus
 
 This repository provides phoneme alignment labels for [JSSS Corpus](https://sites.google.com/site/shinnosuketakamichi/research-topics/jsss_corpus).
 
